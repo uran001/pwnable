@@ -1,2 +1,2 @@
 # pwnable
-Pwnable Solutions
+Pwnable Solution
